@@ -1,2 +1,8 @@
 # i-dropped-my-food
-What to do when you drop your food on the floor via a useful flow chart!
+
+Use this flowchart to help you decide if you should eat that piece of food you just dropped. 
+
+Built in Ruby, using Sinatra. 
+
+
+Try it. It's pretty fun.
