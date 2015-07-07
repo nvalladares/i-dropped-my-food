@@ -1,0 +1,123 @@
+body {
+	background-color: #75c9cc;
+}
+
+#main {
+	border-style: solid;
+	border-color: white;
+	border-width: 15px;
+	margin: 0 auto;
+	text-align: center;
+	height: 70%;
+	max-width: 80%;
+	padding: 11% 11% 11% 11%;
+	margin: 3% 3%;
+}
+
+#mainstart {
+	border-style: solid;
+	border-color: white;
+	border-width: 15px;
+	margin: 0 auto;
+	text-align: center;
+	height: 70%;
+	max-width: 80%;
+	padding: 13% 11% 13% 11%;
+	margin: 3% 3%;
+}
+
+.talk {
+	font-family: 'Paytone One', sans-serif;
+	font-size: 4.5em;
+	color: white;
+	margin: auto;
+	text-align: center;
+}
+
+.start {
+	font-family: 'Paytone One', sans-serif;
+	font-size: 4.5em;
+	color: white;
+	margin: auto;
+	text-align: center;
+}
+
+.button {
+	vertical-align: bottom;
+	margin-top: 10%;
+
+}
+
+.square {
+	border-style: solid;
+	border-color: white;
+	background-color: white;
+	padding: 3% 3%;
+	font-family: 'Playfair Display', serif;
+	text-decoration: none;
+	color: #75c9cc;
+	font-size: 1.4em;
+}
+
+.square:hover {
+	background-color: transparent;
+	color: white;
+	padding: 5% 5%;
+}
+
+.squaredone {
+	border-style: solid;
+	border-color: white;
+	background-color: white;
+	padding: 3% 3%;
+	font-family: 'Playfair Display', serif;
+	text-decoration: none;
+	color: #c75959;
+	font-size: 1.4em;
+}
+
+.squaredone:hover {
+	background-color: transparent;
+	color: white;
+	padding: 5% 5%;
+}
+
+.pass {
+	border-style: solid;
+	border-color: white;
+	background-color: white;
+	padding: 3% 5%;
+	margin-right: 10%;
+	font-family: 'Playfair Display', serif;
+	text-decoration: none;
+	color: #ffd202;
+	font-size: 1.4em;
+}
+
+.pass:hover {
+	background-color: transparent;
+	color: white;
+	padding: 5% 7%;
+}
+
+.fail {
+	border-style: solid;
+	border-color: white;
+	background-color: white;
+	padding: 3% 5%;
+	font-family: 'Playfair Display', serif;
+	text-decoration: none;
+	color: #ffd202;
+	font-size: 1.4em;
+}
+
+.fail:hover {
+	background-color: transparent;
+	color: white;
+	padding: 5% 7%;
+}
+
+
+
+
+
